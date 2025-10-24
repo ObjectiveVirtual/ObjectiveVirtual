@@ -1,6 +1,6 @@
 # Hi, I'm Anir ELHADDAJ 👋
 
-You can call me ObjectiveVirtual (I prefer that), I'm a young 14 y/o independent Moroccan developper working from home. I know a bit of python, that's it.
+My real name is Anir Elhaddaj. You can call me ObjectiveVirtual (I prefer that), I'm a young 14 y/o independent Moroccan developper working from home. I know a bit of python, that's it.
 
 I am working on ZBlock (A hosts file manager designed to block ADs), I'm aiming at learning Rust and C++.
 
